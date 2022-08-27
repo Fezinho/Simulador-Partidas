@@ -7,3 +7,6 @@ Este repositório esta sendo oganizado em algumas branches, que irá mostrar as 
 
 1.Desenvolvimento Mobile Nativo Para Android      
    ∘ [release/desenvolvimento-mobile-nativo-para-android](https://github.com/Fezinho/Simulador-Partidas/tree/release/desenvolvimento-mobile-nativo-para-android)
+   
+   2.Desenvolvimento dos layouts e detalhes de partida.    
+   ∘ [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/Fezinho/Simulador-Partidas/tree/release/componentes-layouts-ui-ux-em-apps-android)
